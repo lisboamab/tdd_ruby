@@ -1,0 +1,1 @@
+# TDD studies with Ruby on Rails, Rspec and Capybara
